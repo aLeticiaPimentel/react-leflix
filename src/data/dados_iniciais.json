@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Universo Harry Potter",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Filmes da Saga",
+        "url": "https://www.youtube.com/watch?v=wZ4Ro9RHIrU"
+      },
+      "videos": [
+        {
+          "titulo": "Meus principais filmes, séries, músicas e muito mais!",
+          "url": "https://www.youtube.com/watch?v=FhJx6bNBlTY"
+        },
+        {
+          "titulo": "Pedra Filosofal",
+          "url": "https://www.youtube.com/watch?v=9fIObnIGMlI"
+        },
+        {
+          "titulo": "Câmera Secreta",
+          "url": "https://www.youtube.com/watch?v=cf0rRYvDuys"
+        },
+        {
+          "titulo": "Prisioneiro de Azkabam",
+          "url": "https://www.youtube.com/watch?v=_MKyGj6ZU10"
+        },
+        {
+          "titulo": "Cálice de Fogo",
+          "url": "https://www.youtube.com/watch?v=cVKkL4O60IM"
+        },
+        {
+          "titulo": "Ordem da Fênix",
+          "url": "https://www.youtube.com/watch?v=ZkDCaxUNV3o"
+        },
+        {
+          "titulo": "Enigma do Príncipe",
+          "url": "https://www.youtube.com/watch?v=wgkHfUaG1nI"
+        },
+        {
+          "titulo": "Relíquias da Morte - Parte 1",
+          "url": "https://www.youtube.com/watch?v=-_GftUTRWHM"
+        }            
+      ]
+    },
+    {
+      "titulo": "Universo Marvel",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Filmes da Marvel",
+        "url": "https://www.youtube.com/watch?v=nPfuFbFt5Ek"
+      },
+      "videos": [
+        {
+          "titulo": "THOR",
+          "url": "https://www.youtube.com/watch?v=GI-NJq82kH8"
+        },
+        {
+          "titulo": "THOR",
+          "url": "https://www.youtube.com/watch?v=GI-NJq82kH8"
+        },
+        {
+          "titulo": "Guardiões da Galaxia",
+          "url": "https://www.youtube.com/watch?v=8VN_l57QWyQ"
+        },
+        {
+          "titulo": "Capitão América",
+          "url": "https://www.youtube.com/watch?v=-006iHDHK34"
+        }, 
+        {
+          "titulo": "Homem de Ferro",
+          "url": "https://www.youtube.com/watch?v=igfXmU1r_mc"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries Favoritas",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Quero assistir",
+        "url": "https://www.youtube.com/watch?v=sWRS8mwXCfY"
+      },
+      "videos": [
+        {
+          "titulo": "The Walking Dead",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "Grey´s Anatomy",
+          "url": "https://www.youtube.com/watch?v=2wqzcLyaU8c"
+        },
+        {
+          "titulo": "The Walking Dead",
+          "url": "https://www.youtube.com/watch?v=6Z6ijZa3EXw"
+        },
+        {
+          "titulo": "Wandinha",
+          "url": "https://www.youtube.com/watch?v=jC1UClvq9i8"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Grren Day - Boulevard Of Broken Dreams",
+          "url": "https://www.youtube.com/watch?v=Soa3gO7tL-c"
+        },
+        {
+          "titulo": "Green Day - Boulevard Of Broken Dreams",
+          "url": "https://www.youtube.com/watch?v=Soa3gO7tL-c"
+        },
+        {
+          "titulo": "Avril Lavigne - Let Me Go",
+          "url": "https://www.youtube.com/watch?v=AqajUg85Ax4"
+        },
+        {
+          "titulo": "Gaga - I'll Never Love Again",
+          "url": "https://www.youtube.com/watch?v=52nfjRzIaj8"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Meus Games Favoritos",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Esportes",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Os Mehores do Mundo - Destaques do Esporte Brasileiro",
+        "url": "https://www.youtube.com/watch?v=FvwiIgZsPYo"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Copa Feminina Futebol 2019",
+          "url": "https://www.youtube.com/watch?v=Fqe89d3-i7g"
+        },
+        {
+          "titulo": "Volei Feminino - Brasil x Itália",
+          "url": "https://www.youtube.com/watch?v=_QnuS1loB6Y"
+        },
+        {
+          "titulo": "Skate Feminino - Liga Mundial",
+          "url": "https://www.youtube.com/watch?v=idynFPj5-UU"
+        },
+        {
+          "titulo": "Copa do Mundo Qatar - Brasil x Sérvia",
+          "url": "https://www.youtube.com/watch?v=_VCSlZ2n42o"
+        }
+      ]
+    }
+  ]
+}
